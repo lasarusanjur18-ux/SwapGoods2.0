@@ -1,0 +1,5 @@
+{
+  "name": "TukarBarang",
+  "description": "Aplikasi tukar menukar barang lokal untuk komunitas sekitar. Temukan barang unik di sekitarmu dan tukarkan dengan barang yang tidak kamu gunakan lagi.",
+  "requestFramePermissions": ["geolocation"]
+}
